@@ -1,28 +1,27 @@
 #### concepts
 
-    1. repository
-    1. staging + commit
-    1. branches
+1. repository
+1. staging + commit
+1. branches
 
 #### comands
 
-    1. git config --global user.name "Rahul Kandula"
-    1. git config --global core.editor nano
-    1. git pull
-    1. git init/
-       git clone <remote-url>
-    1. git status
-    1. git add
-    1. git commit -m "commit message"
-    1. git log
-    1. git checkout . # to revert the file changes
-    1. git checkout <branchname> # to move to another branch
-    1. git push
+1. git config --global user.name "Rahul Kandula"
+1. git config --global core.editor nano
+1. git pull
+1. git init/git clone <remote-url>
+1. git status
+1. git add
+1. git commit -m "commit message"
+1. git log
+1. git checkout . # to revert the file changes
+1. git checkout <branchname> # to move to another branch
+1. git push
 
 #### Python
 
-    1. python3 -m venv venv
-    1. source venv/bin/activate
+1. python3 -m venv venv
+1. source venv/bin/activate
 
 #### Automation
 
