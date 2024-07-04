@@ -1,6 +1,7 @@
 #### bash rc
 
 ~/.bashrc
+~/.zshrc
 
 alias dir='ssh 10.12.12.2'
 
