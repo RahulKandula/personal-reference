@@ -3,4 +3,7 @@
 1. What can you put into practice is only thing that matters!
    and oh, first pass through is not the best attempt - it is just a sweep.
    and let go to retain more.
+
    - As per on the job, try to capture the info which will only help later.
+
+1. Take something to completion

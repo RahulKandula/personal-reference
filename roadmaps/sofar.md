@@ -9,3 +9,4 @@
    - basics of shell scripting
 1. misc
    - git - devitro
+   - tablaeu
