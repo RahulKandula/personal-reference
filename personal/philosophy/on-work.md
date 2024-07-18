@@ -1,3 +1,5 @@
+1. Be in a hacky mindset.
+
 1. What would you rather be doing right now!! It is better to be on the journey.
 
 1. What can you put into practice is only thing that matters!
