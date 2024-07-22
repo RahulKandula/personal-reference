@@ -8,15 +8,21 @@
 
 1. git config --global user.name "Rahul Kandula"
 1. git config --global core.editor nano
-1. git pull
+
 1. git init/git clone <remote-url>
 1. git status
 1. git add
 1. git commit -m "commit message"
+
+1. git pull
+1. git push
+
+1. git diff <file-name>
+
 1. git log
+
 1. git checkout . # to revert the file changes
 1. git checkout <branchname> # to move to another branch
-1. git push
 
 #### Python
 
