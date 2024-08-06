@@ -6,3 +6,9 @@
 ### UNIQUE
 
     * Just use to get unique out of a column
+
+### How to filter based on a set of values
+
+    * Setup a helper column with value as 1
+    * fetch that in vlookup
+    * now you can filter based on 1 and N/A

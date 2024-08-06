@@ -53,10 +53,18 @@ git checkout <branchname>
 git log c91d15790e41bf51bf860c6eadf46a49c2d04ff0..bd4d4c03ebe7ad96a605bb777a695ca404568ce2 --name-only --pretty=format:%h | sort -u
 ```
 
-1. this is to get a particular version of a file
+1. this is to get a particular version of a file. Using ^ shows the previous version from that commit
 
 ```text
 git show commit-hash^:filename
 
 git show 152c0066^:src/main/java/com/...java > /c/tmpout/<java-file-name>.java
+```
+
+1. you can also see diff in the same way
+
+```text
+git diff c1 c2
+or
+git diff c1 c2 -- file
 ```

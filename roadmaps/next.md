@@ -1,6 +1,15 @@
-1. Marcos codes springboot
-1. Stdulearn lantern core spring
+1. ~~Marcos codes springboot~~
+
+1. Dan Vega Spring Security series
+1. How to use rest client of spring boot
+1. VS rest client advanced usage youtube video
 1. Marco codes jpa and hibernate
+1. Struts 2 by Java brains
+
+1. Hands on Azure repos book on oreily
+1. Navek playlist on linux utilities
+
+1. Stdulearn lantern core spring
 1. In28min jpa and hibernate
 1. Quick metal math book
 1. Nand to tetris book
@@ -13,3 +22,5 @@
 1. Leverage sping boot to know more on http flags
 1. Know more about spring rest client
 1. Some pl/sql book or oreily course
+1. chck out wittcode youtube videos on java socket programming
+1. spring office hours
