@@ -1,12 +1,16 @@
 1. ~~Marcos codes springboot~~
+1. tableau learnit course for sravya
+1. Marco codes jpa and hibernate
+1. grep pocket reference book oreily
+1. Mental math book
+1. Hands on Azure repos book on oreily
+1. Marco maven course
 
 1. Dan Vega Spring Security series
 1. How to use rest client of spring boot
 1. VS rest client advanced usage youtube video
-1. Marco codes jpa and hibernate
 1. Struts 2 by Java brains
 
-1. Hands on Azure repos book on oreily
 1. Navek playlist on linux utilities
 
 1. Stdulearn lantern core spring
