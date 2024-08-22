@@ -2,7 +2,7 @@
 
 ```sql
     create database link at_lndb
-    connect to <user/schema> identified by pwd
+    connect to <user/schema> identified by "pwd"
     using '<connection-string>'
 ```
 

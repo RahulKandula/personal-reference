@@ -1,4 +1,5 @@
-1. be goals driven. Goals being getting someone else noticing whatever you do. That way you feed off of that - get positive energy and so on till we die.
-1. do it right away
-1. do not reinvent the wheel - better focus time on getting something done.
-1. get something to completion to get a closure on it.
+1. Roam around in and out of Comfort zones
+1. Discipline - just show up first and foremost
+1. Extreme Ownership of everything - you hve to be the one in charge
+1. Dont shoot off anyone and keep communication to the point always.
+1. Invest in show off.
